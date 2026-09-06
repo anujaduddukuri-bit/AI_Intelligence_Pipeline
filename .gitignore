@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+
+# Logs
+*.log
+
+# Temporary research mapping dataset
+data/raw/pwc_links_between_papers_and_code.parquet
+
+# Backup files
+*.backup.json

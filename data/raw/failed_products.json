@@ -1,0 +1,2502 @@
+[
+    {
+        "url": "https://gemini.google.com",
+        "name": "Gemini 3",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"report-uri /_/BardChatUi/cspreport;default-src \\'none\\';script-src * \\'unsafe-inline\\' \\'unsafe-eval\\' blo...\".', url='https://gemini.google.com'"
+    },
+    {
+        "url": "https://openai.com",
+        "name": "GPT Image 2",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://aifordevelopers.substack.com/",
+        "name": "AI for Developers",
+        "error": "Cannot connect to host aifordevelopers.substack.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://swiftalerts.trade",
+        "name": "SwiftAlerts",
+        "error": "Cannot connect to host swiftalerts.trade:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.theneurondaily.com/",
+        "name": "The Neuron",
+        "error": "Cannot connect to host www.theneurondaily.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://chat.deepseek.com",
+        "name": "Deepseek Vision",
+        "error": "HTTP 202"
+    },
+    {
+        "url": "https://aiprm.com",
+        "name": "AIPRM",
+        "error": "Cannot connect to host aiprm.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://amplemarket.com",
+        "name": "Amplemarket",
+        "error": "Cannot connect to host www.amplemarket.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://anyscale.com",
+        "name": "Anyscale",
+        "error": "Cannot connect to host www.anyscale.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://arcade.software",
+        "name": "Arcade",
+        "error": "Cannot connect to host www.arcade.software:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://baseten.co",
+        "name": "Baseten",
+        "error": "Cannot connect to host www.baseten.co:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://bloomfire.com",
+        "name": "Bloomfire",
+        "error": "Cannot connect to host bloomfire.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://churnzero.com",
+        "name": "ChurnZero",
+        "error": "Cannot connect to host churnzero.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://convertkit.com",
+        "name": "ConvertKit",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://edenai.run",
+        "name": "Eden AI",
+        "error": "Cannot connect to host edenai.run:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://enhancv.com",
+        "name": "Enhancv",
+        "error": "Cannot connect to host enhancv.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://gainsight.com",
+        "name": "Gainsight",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://gencraft.com",
+        "name": "Gencraft",
+        "error": "Cannot connect to host gencraft.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://glassbox.com",
+        "name": "Glassbox",
+        "error": "Cannot connect to host glassbox.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://haystack.deepset.ai",
+        "name": "Haystack",
+        "error": "Cannot connect to host haystack.deepset.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://hex.tech",
+        "name": "Hex",
+        "error": "Cannot connect to host hex.tech:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://highspot.com",
+        "name": "Highspot",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://hourone.ai",
+        "name": "Hour One",
+        "error": "Cannot connect to host hourone.ai:443 ssl:default [The remote computer refused the network connection]"
+    },
+    {
+        "url": "https://kaspr.io",
+        "name": "Kaspr",
+        "error": "Cannot connect to host www.kaspr.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://keywordinsights.ai",
+        "name": "Keyword Insights",
+        "error": "timeout"
+    },
+    {
+        "url": "https://lindy.ai",
+        "name": "Lindy",
+        "error": "Cannot connect to host www.lindy.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://lusha.com",
+        "name": "Lusha",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"default-src \\'self\\' *.google.com *.lusha.com https://www.g2.com https://gist.github.com localhost htt...\".', url='https://www.lusha.com/'"
+    },
+    {
+        "url": "https://magicpatterns.com",
+        "name": "Magic Patterns",
+        "error": "400, message=\"Got more than 8190 bytes when reading: b'bootstrapData=%7B%22distinctID%22%3A%229a45409b-a946-4d39-a9cf-ca18dc44974b%22%2C%22featureFlagPaylo...'.\", url='https://www.magicpatterns.com/'"
+    },
+    {
+        "url": "https://magnific.ai",
+        "name": "Magnific AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://manychat.com",
+        "name": "ManyChat",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://marketinguys.com",
+        "name": "Marketinguys",
+        "error": "Cannot connect to host marketinguys.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.movio.la",
+        "name": "Movio",
+        "error": "Cannot connect to host www.movio.la:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://neets.ai",
+        "name": "Neets AI",
+        "error": "Cannot connect to host neets.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pachama.com",
+        "name": "Pachama",
+        "error": "Cannot connect to host www.carbon-direct.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://palette.fm",
+        "name": "Palette.fm",
+        "error": "Cannot connect to host palette.fm:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://perplexity.ai/pro",
+        "name": "Perplexity Pro",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://phrasee.co",
+        "name": "Phrasee",
+        "error": "Cannot connect to host www.jacquard.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://promeai.pro",
+        "name": "Prome AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://ragas.io",
+        "name": "Ragas",
+        "error": "Cannot connect to host ragas.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://render.com",
+        "name": "Render",
+        "error": "Cannot connect to host render.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://rewatch.com",
+        "name": "Rewatch",
+        "error": "Cannot connect to host rewatch.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://sambanova.ai",
+        "name": "SambaNova",
+        "error": "Cannot connect to host sambanova.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://seamless.ai",
+        "name": "Seamless AI",
+        "error": "Cannot connect to host seamless.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://seismic.com",
+        "name": "Seismic",
+        "error": "Cannot connect to host www.seismic.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://smartling.com",
+        "name": "Smartling",
+        "error": "Cannot connect to host smartling.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://soundful.com",
+        "name": "Soundful",
+        "error": "Cannot connect to host soundful.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://stack-ai.com",
+        "name": "Stack AI",
+        "error": "Cannot connect to host www.stackai.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://stockcake.com",
+        "name": "Stockcake",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://supademo.com",
+        "name": "Supademo",
+        "error": "Cannot connect to host supademo.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://systrangroup.com",
+        "name": "SYSTRAN",
+        "error": "Cannot connect to host systrangroup.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://talkwalker.com",
+        "name": "Talkwalker",
+        "error": "Cannot connect to host talkwalker.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://tealhq.com",
+        "name": "Teal",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://transifex.com",
+        "name": "Transifex",
+        "error": "Cannot connect to host www.transifex.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://turso.tech",
+        "name": "Turso",
+        "error": "Cannot connect to host turso.tech:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://viggle.ai",
+        "name": "Viggle",
+        "error": "Cannot connect to host viggle.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://vizcom.ai",
+        "name": "Vizcom",
+        "error": "Cannot connect to host vizcom.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://warmbox.ai",
+        "name": "Warmbox",
+        "error": "Cannot connect to host www.warmbox.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://writecream.com",
+        "name": "Writecream",
+        "error": "Cannot connect to host writecream.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://writer.com",
+        "name": "Writer",
+        "error": "Cannot connect to host writer.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://zumper.com",
+        "name": "Zumper",
+        "error": "Cannot connect to host zumper.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.adobe.com/products/character-animator.html",
+        "name": "Adobe Character Animator",
+        "error": "timeout"
+    },
+    {
+        "url": "https://www.amwell.com",
+        "name": "Amwell",
+        "error": "Cannot connect to host www.amwell.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://appen.com",
+        "name": "Appen",
+        "error": "Cannot connect to host appen.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.archbee.com",
+        "name": "Archbee",
+        "error": "Cannot connect to host www.archbee.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.atomwise.com",
+        "name": "Atomwise",
+        "error": "Cannot connect to host www.atomwise.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.audible.com",
+        "name": "Audible",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.augury.com",
+        "name": "Augury",
+        "error": "Cannot connect to host www.augury.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://azure.microsoft.com/en-us/products/ai-services/ai-content-moderator",
+        "name": "Azure Content Moderator",
+        "error": "timeout"
+    },
+    {
+        "url": "https://bambulab.com/en/software/bambuStudio",
+        "name": "Bambu Studio",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.bemyeyes.com",
+        "name": "Be My Eyes",
+        "error": "Cannot connect to host www.bemyeyes.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.benchling.com",
+        "name": "Benchling",
+        "error": "Cannot connect to host www.benchling.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.betterup.com",
+        "name": "BetterUp",
+        "error": "Cannot connect to host www.betterup.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.blinkist.com",
+        "name": "Blinkist",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://bloomerang.co",
+        "name": "Bloomerang",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.bonterratech.com",
+        "name": "Bonterra",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.calm.com",
+        "name": "Calm",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.catapult.com",
+        "name": "Catapult Sports",
+        "error": "Cannot connect to host www.catapult.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.clarifai.com",
+        "name": "Clarifai",
+        "error": "timeout"
+    },
+    {
+        "url": "https://cloudhealth.vmware.com",
+        "name": "CloudHealth by VMware",
+        "error": "Cannot connect to host cloudhealth.vmware.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.derwentinnovation.com",
+        "name": "Derwent Innovation",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://drata.com",
+        "name": "Drata",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://dune.com",
+        "name": "Dune Analytics",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://embarkvet.com",
+        "name": "Embark Veterinary",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://fauna.com",
+        "name": "Fauna",
+        "error": "timeout"
+    },
+    {
+        "url": "https://www.fitbod.me",
+        "name": "Fitbod",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://flowgpt.com",
+        "name": "FlowGPT",
+        "error": "Cannot connect to host flowgpt.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.geneious.com",
+        "name": "Geneious",
+        "error": "Cannot connect to host www.geneious.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://gretel.ai",
+        "name": "Gretel.ai",
+        "error": "Cannot connect to host www.gretel.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://grip.events",
+        "name": "Grip",
+        "error": "Cannot connect to host grip.events:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.learnwithhomer.com",
+        "name": "Homer",
+        "error": "Cannot connect to host www.learnwithhomer.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.iplytics.com",
+        "name": "IPlytics",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://iris-dating.com",
+        "name": "Iris Dating",
+        "error": "Cannot connect to host iris-dating.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.jumio.com",
+        "name": "Jumio",
+        "error": "Cannot connect to host www.jumio.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://labelbox.com",
+        "name": "Labelbox",
+        "error": "Cannot connect to host labelbox.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.lemonade.com",
+        "name": "Lemonade",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.lexalytics.com",
+        "name": "Lexalytics",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.maxar.com",
+        "name": "Maxar Technologies",
+        "error": "Cannot connect to host www.maxar.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.mermaidchart.com",
+        "name": "Mermaid Chart",
+        "error": "Cannot connect to host mermaid.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.meta.com/quest/",
+        "name": "Meta Quest",
+        "error": "HTTP 400"
+    },
+    {
+        "url": "https://www.mindmeister.com",
+        "name": "MindMeister",
+        "error": "Cannot connect to host www.mindmeister.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://monkeylearn.com",
+        "name": "MonkeyLearn",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://moralis.io",
+        "name": "Moralis",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.nearmap.com",
+        "name": "Nearmap",
+        "error": "Cannot connect to host www.nearmap.com:443 ssl:True [SSLCertVerificationError: (5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')]"
+    },
+    {
+        "url": "https://www.onetrust.com",
+        "name": "OneTrust",
+        "error": "Cannot connect to host www.onetrust.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.particle.io",
+        "name": "Particle",
+        "error": "Cannot connect to host www.particle.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://withpersona.com",
+        "name": "Persona",
+        "error": "Cannot connect to host withpersona.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://petcube.com",
+        "name": "Petcube",
+        "error": "Cannot connect to host petcube.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.procore.com",
+        "name": "Procore",
+        "error": "Cannot connect to host www.procore.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://prompthero.com",
+        "name": "PromptHero",
+        "error": "Cannot connect to host prompthero.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://readyplayer.me",
+        "name": "Ready Player Me",
+        "error": "Cannot connect to host readyplayer.me:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.recursion.com",
+        "name": "Recursion Pharmaceuticals",
+        "error": "Cannot connect to host www.recursion.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.rookout.com",
+        "name": "Rookout",
+        "error": "Cannot connect to host www.rookout.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://satellogic.com",
+        "name": "Satellogic",
+        "error": "Cannot connect to host satellogic.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.schrodinger.com",
+        "name": "Schrödinger",
+        "error": "Cannot connect to host www.schrodinger.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://sightmachine.com",
+        "name": "Sight Machine",
+        "error": "Cannot connect to host sightmachine.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.autodesk.com/products/forma/overview",
+        "name": "Spacemaker AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://spire.com",
+        "name": "Spire Global",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://spot.io",
+        "name": "Spot.io",
+        "error": "Cannot connect to host spot.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.statsperform.com",
+        "name": "Stats Perform",
+        "error": "Cannot connect to host www.statsperform.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.stem.com",
+        "name": "Stem AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.testim.io",
+        "name": "Testim",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://tinybeans.com",
+        "name": "Tinybeans",
+        "error": "Cannot connect to host tinybeans.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.tripadvisor.com",
+        "name": "Tripadvisor",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://ultimaker.com/software/ultimaker-cura/",
+        "name": "Ultimaker Cura",
+        "error": "Cannot connect to host ultimaker.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://uplight.com",
+        "name": "Uplight",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://www.weglot.com",
+        "name": "Weglot",
+        "error": "Cannot connect to host www.weglot.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.whoop.com",
+        "name": "Whoop",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"base-uri \\'self\\'; connect-src \\'self\\' whoop.com *.whoop.com browser-intake-datadoghq.com *.browser-int...\".', url='https://www.whoop.com'"
+    },
+    {
+        "url": "https://xmind.app",
+        "name": "XMind",
+        "error": "Cannot connect to host xmind.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.zebra-med.com",
+        "name": "Zebra Medical Vision",
+        "error": "Cannot connect to host www.zebra-med.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://15five.com",
+        "name": "15Five",
+        "error": "Cannot connect to host 15five.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://6sense.com",
+        "name": "6sense",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://abridge.com",
+        "name": "Abridge",
+        "error": "Cannot connect to host abridge.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://ada.cx",
+        "name": "Ada",
+        "error": "Cannot connect to host ada.cx:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://ada.com",
+        "name": "Ada Health",
+        "error": "Cannot connect to host ada.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://adalo.com",
+        "name": "Adalo",
+        "error": "Cannot connect to host www.adalo.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://adobe.com/aftereffects",
+        "name": "Adobe After Effects",
+        "error": "timeout"
+    },
+    {
+        "url": "https://www.adobe.com/products/premiere.html",
+        "name": "Adobe Premiere Pro AI",
+        "error": "timeout"
+    },
+    {
+        "url": "https://www.adobe.com/sensei.html",
+        "name": "Adobe Sensei",
+        "error": "timeout"
+    },
+    {
+        "url": "https://adp.com",
+        "name": "ADP",
+        "error": "Cannot connect to host adp.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://agentgpt.reworkd.ai",
+        "name": "Agent GPT",
+        "error": "Cannot connect to host agentgpt.reworkd.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://agno.com",
+        "name": "Agno",
+        "error": "Cannot connect to host agno.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://ai-writer.com",
+        "name": "AI-Writer",
+        "error": "Cannot connect to host ai-writer.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://aidir.wiki",
+        "name": "AIDir.wiki",
+        "error": "Cannot connect to host aidir.wiki:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://airbyte.com",
+        "name": "Airbyte",
+        "error": "Cannot connect to host airbyte.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://airtable.com",
+        "name": "Airtable",
+        "error": "Cannot connect to host www.airtable.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://altern.ai",
+        "name": "Altern",
+        "error": "Cannot connect to host altern.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://amplenote.com",
+        "name": "Amplenote",
+        "error": "Cannot connect to host amplenote.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://artbreeder.com",
+        "name": "Artbreeder",
+        "error": "Cannot connect to host artbreeder.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://asana.com",
+        "name": "Asana",
+        "error": "Cannot connect to host asana.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://attentioninsight.com",
+        "name": "Attention Insight",
+        "error": "Cannot connect to host attentioninsight.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://attentivemobile.com",
+        "name": "Attentive",
+        "error": "Cannot connect to host www.attentive.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://babylonhealth.com",
+        "name": "Babylon Health",
+        "error": "Cannot connect to host babylonhealth.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://bamboohr.com",
+        "name": "BambooHR",
+        "error": "Cannot connect to host www.bamboohr.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://benevolent.ai",
+        "name": "BenevolentAI",
+        "error": "Cannot connect to host www.benevolent.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://bill.com",
+        "name": "BILL AI",
+        "error": "Cannot connect to host www.bill.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://boomerangmail.com",
+        "name": "Boomerang",
+        "error": "Cannot connect to host boomerangmail.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://botkeeper.com",
+        "name": "Botkeeper",
+        "error": "Cannot connect to host www.botkeeper.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://brandwatch.com",
+        "name": "Brandwatch",
+        "error": "Cannot connect to host www.brandwatch.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://brevo.com",
+        "name": "Brevo AI",
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://canva.com",
+        "name": "Canva",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://capacity.com",
+        "name": "Capacity",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://carbontrust.com",
+        "name": "Carbon Trust",
+        "error": "Cannot connect to host www.carbontrust.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://causal.app",
+        "name": "Causal",
+        "error": "Cannot connect to host www.lucanet.com:443 ssl:True [SSLCertVerificationError: (5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')]"
+    },
+    {
+        "url": "https://cerebras.ai",
+        "name": "Cerebras",
+        "error": "Cannot connect to host cerebras.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://charisma.ai",
+        "name": "Charisma.ai",
+        "error": "Cannot connect to host charisma.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://charliehr.com",
+        "name": "CharlieHR",
+        "error": "Cannot connect to host charliehr.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://chat.openai.com",
+        "name": "ChatGPT",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://openai.com/index/introducing-canvas",
+        "name": "ChatGPT Canvas",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://chegg.com",
+        "name": "Chegg AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://chibi.ai",
+        "name": "Chibi AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://civitai.com",
+        "name": "Civitai",
+        "error": "Cannot connect to host civitai.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://claap.io",
+        "name": "Claap",
+        "error": "Cannot connect to host www.claap.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://clari.com",
+        "name": "Clari",
+        "error": "Cannot connect to host clari.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://claude.ai",
+        "name": "Claude",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://claude.ai/code",
+        "name": "Claude Code",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://cleanfeed.net",
+        "name": "Cleanfeed",
+        "error": "Cannot connect to host cleanfeed.net:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://clideo.com",
+        "name": "Clideo",
+        "error": "Cannot connect to host clideo.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://climate.com/fieldview",
+        "name": "Climate FieldView",
+        "error": "Cannot connect to host climate.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://climatetrace.org",
+        "name": "Climate TRACE",
+        "error": "Cannot connect to host climatetrace.org:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://copyleaks.com",
+        "name": "Copyleaks",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://coreweave.com",
+        "name": "CoreWeave",
+        "error": "Cannot connect to host coreweave.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://craiyon.com",
+        "name": "Craiyon",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://cursor.sh",
+        "name": "Cursor",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"default-src \\'self\\' ; script-src \\'self\\' \\'unsafe-inline\\' \\'unsafe-eval\\' cursor.com *.cursor.com cursor....\".', url='https://cursor.com/'"
+    },
+    {
+        "url": "https://d-id.com",
+        "name": "D-ID",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://darksky.net",
+        "name": "Dark Sky",
+        "error": "Cannot connect to host darksky.net:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://datarobot.com",
+        "name": "DataRobot",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://descript.com",
+        "name": "Descript",
+        "error": "Cannot connect to host www.descript.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://descript.com/studio-sound",
+        "name": "Descript Studio Sound",
+        "error": "Cannot connect to host www.descript.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://dimensions.ai",
+        "name": "Dimensions",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://docusign.com",
+        "name": "DocuSign AI",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"default-src \\'self\\' https://pref.docusign.com https://apps.docusign.com https://events.docusign.com h...\".', url='https://www.docusign.com/'"
+    },
+    {
+        "url": "https://dolby.io",
+        "name": "Dolby.io",
+        "error": "Cannot connect to host optiview.dolby.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://dovetailapp.com",
+        "name": "Dovetail",
+        "error": "Cannot connect to host dovetail.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://dreambox.com",
+        "name": "DreamBox Learning",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://dynamicyield.com",
+        "name": "Dynamic Yield",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://e2b.dev",
+        "name": "E2B",
+        "error": "Cannot connect to host e2b.dev:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://elai.io",
+        "name": "Elai.io",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://eraser.io",
+        "name": "Eraser",
+        "error": "Cannot connect to host www.eraser.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://fashwell.com",
+        "name": "Fashwell",
+        "error": "Cannot connect to host fashwell.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://flexclip.com",
+        "name": "FlexClip",
+        "error": "Cannot connect to host flexclip.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://fliki.ai",
+        "name": "Fliki",
+        "error": "Cannot connect to host fliki.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://fly.io",
+        "name": "Fly.io",
+        "error": "Cannot connect to host fly.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://www.freepik.com/ai",
+        "name": "Freepik AI",
+        "error": "Cannot connect to host www.freepik.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://gamma.app",
+        "name": "Gamma",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://gemini.google.com/advanced",
+        "name": "Gemini Advanced",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"report-uri /_/BardChatUi/cspreport;default-src \\'none\\';script-src * \\'unsafe-inline\\' \\'unsafe-eval\\' blo...\".', url='https://gemini.google.com/advanced'"
+    },
+    {
+        "url": "https://workspace.google.com/intl/en/products/gmail/gemini",
+        "name": "Gemini in Workspace",
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://runwayml.com/gen-3",
+        "name": "Runway Gen-3 Alpha",
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://gitkraken.com/gitlens",
+        "name": "GitLens AI",
+        "error": "Cannot connect to host gitkraken.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://glassdoor.com",
+        "name": "Glassdoor",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://glideapps.com",
+        "name": "Glide",
+        "error": "Cannot connect to host www.glideapps.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://gptengineer.app",
+        "name": "GPT Engineer",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://openai.com/gpt-4o",
+        "name": "GPT-4o",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://granular.ag",
+        "name": "Granular",
+        "error": "Cannot connect to host us.insights.granular.ag:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://growthbarseo.com",
+        "name": "GrowthBar",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://happyscribe.com",
+        "name": "Happy Scribe",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://height.app",
+        "name": "Height",
+        "error": "Cannot connect to host height.app:443 ssl:default [None]"
+    },
+    {
+        "url": "https://helpshift.com",
+        "name": "Helpshift",
+        "error": "Cannot connect to host helpshift.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://heptabase.com",
+        "name": "Heptabase",
+        "error": "Cannot connect to host heptabase.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://heygen.com",
+        "name": "HeyGen",
+        "error": "Cannot connect to host heygen.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://hibob.com",
+        "name": "HiBob",
+        "error": "Cannot connect to host www.hibob.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://hubspot.com",
+        "name": "HubSpot",
+        "error": "Cannot connect to host hubspot.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://hubspot.com/crm",
+        "name": "HubSpot CRM",
+        "error": "Cannot connect to host hubspot.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://imgflip.com",
+        "name": "Imgflip",
+        "error": "Cannot connect to host imgflip.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://indeed.com",
+        "name": "Indeed",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://infermedica.com",
+        "name": "Infermedica",
+        "error": "Cannot connect to host infermedica.com:443 ssl:True [SSLCertVerificationError: (5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)')]"
+    },
+    {
+        "url": "https://intercom.com",
+        "name": "Intercom",
+        "error": "Cannot connect to host intercom.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://invisionapp.com",
+        "name": "InVision",
+        "error": "Cannot connect to host invisionapp.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://ixl.com",
+        "name": "IXL",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"default-src \\'self\\' data: blob:; script-src \\'self\\' \\'unsafe-inline\\' \\'unsafe-eval\\' data: blob: https://...\".', url='https://www.ixl.com/'"
+    },
+    {
+        "url": "https://izotope.com/rx",
+        "name": "iZotope RX",
+        "error": "Cannot connect to host izotope.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://juro.com",
+        "name": "Juro",
+        "error": "Cannot connect to host juro.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://kaedim3d.com",
+        "name": "Kaedim",
+        "error": "Cannot connect to host www.kaedim3d.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://kirasystems.com",
+        "name": "Kira Systems",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://kustomer.com",
+        "name": "Kustomer AI",
+        "error": "Cannot connect to host www.kustomer.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://lambdalabs.com",
+        "name": "Lambda Labs",
+        "error": "Cannot connect to host lambdalabs.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://langchain.com",
+        "name": "LangChain",
+        "error": "Cannot connect to host langchain.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://langflow.org",
+        "name": "Langflow",
+        "error": "Cannot connect to host langflow.org:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'langflow.org'. (_ssl.c:1028)\")]"
+    },
+    {
+        "url": "https://later.com",
+        "name": "Later",
+        "error": "Cannot connect to host later.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://lawgeex.com",
+        "name": "LawGeex",
+        "error": "Cannot connect to host www.lawgeex.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://chat.mistral.ai",
+        "name": "Le Chat",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://lens.org",
+        "name": "Lens.org",
+        "error": "Cannot connect to host lens.org:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://prisma-ai.com/lensa",
+        "name": "Lensa AI",
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://lex.page",
+        "name": "Lex",
+        "error": "Cannot connect to host lex.page:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://getliner.com",
+        "name": "Liner",
+        "error": "HTTP 410"
+    },
+    {
+        "url": "https://llama.meta.com",
+        "name": "Llama 4",
+        "error": "Cannot connect to host www.llama.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://llamasoft.com",
+        "name": "Llamasoft",
+        "error": "Cannot connect to host llamasoft.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://looka.com",
+        "name": "Looka",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://lottiefiles.com",
+        "name": "Lottie",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://loudly.com",
+        "name": "Loudly",
+        "error": "Cannot connect to host loudly.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://lovo.ai",
+        "name": "Lovo AI",
+        "error": "HTTP 402"
+    },
+    {
+        "url": "https://lucidchart.com",
+        "name": "Lucidchart AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://luminance.com",
+        "name": "Luminance",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://mage.space",
+        "name": "Mage.space",
+        "error": "Cannot connect to host www.mage.space:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://magento.com",
+        "name": "Magento",
+        "error": "timeout"
+    },
+    {
+        "url": "https://make.com",
+        "name": "Make",
+        "error": "Cannot connect to host make.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://marketmuse.com",
+        "name": "MarketMuse",
+        "error": "Cannot connect to host marketmuse.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://masterpiecestudio.com",
+        "name": "Masterpiece Studio",
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://mathway.com",
+        "name": "Mathway",
+        "error": "Cannot connect to host mathway.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://memegenerator.net",
+        "name": "Meme Generator",
+        "error": "timeout"
+    },
+    {
+        "url": "https://ai.meta.com",
+        "name": "Meta AI",
+        "error": "HTTP 400"
+    },
+    {
+        "url": "https://azure.microsoft.com/government",
+        "name": "Microsoft Government Cloud",
+        "error": "timeout"
+    },
+    {
+        "url": "https://midjourney.com",
+        "name": "Midjourney",
+        "error": "Cannot connect to host midjourney.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://modal.com",
+        "name": "Modal",
+        "error": "400, message='Got more than 8190 bytes when reading: b\\'</_app/immutable/assets/A.Dzg1hRn-.css>; rel=\"preload\"; as=\"style\"; nopush, </_app/immutable/assets/...\\'.', url='https://modal.com'"
+    },
+    {
+        "url": "https://monday.com",
+        "name": "Monday.com",
+        "error": "Cannot connect to host monday.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://moovly.com",
+        "name": "Moovly",
+        "error": "Cannot connect to host moovly.com:443 ssl:True [SSLCertVerificationError: (5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')]"
+    },
+    {
+        "url": "https://morningstar.com",
+        "name": "Morningstar AI",
+        "error": "Cannot connect to host www.morningstar.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://mosaic.tech",
+        "name": "Mosaic",
+        "error": "Cannot connect to host mosaic.tech:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://motion.ai",
+        "name": "Motion",
+        "error": "Cannot connect to host www.motion.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://munch.ai",
+        "name": "Munch",
+        "error": "Cannot connect to host munch.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://mutable.ai",
+        "name": "Mutable AI",
+        "error": "Cannot connect to host mutable.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://narrato.io",
+        "name": "Narrato",
+        "error": "Cannot connect to host narrato.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://netlify.com",
+        "name": "Netlify",
+        "error": "Cannot connect to host www.netlify.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://nintex.com",
+        "name": "Nintex",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://nosto.com",
+        "name": "Nosto",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://notion.so",
+        "name": "Notion",
+        "error": "Cannot connect to host www.notion.so:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://nuance.com/dax",
+        "name": "Nuance DAX",
+        "error": "Cannot connect to host www.nuance.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://okendo.io",
+        "name": "Okendo",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://on1.com",
+        "name": "ON1 Photo AI",
+        "error": "Cannot connect to host on1.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://openai.com/operator",
+        "name": "OpenAI Operator",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://openai.com/index/introducing-the-realtime-api",
+        "name": "OpenAI Realtime API",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://opus.pro",
+        "name": "Opus Clip",
+        "error": "Cannot connect to host www.opus.pro:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://originality.ai",
+        "name": "Originality.ai",
+        "error": "Cannot connect to host originality.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://paper-digest.com",
+        "name": "Paper Digest",
+        "error": "timeout"
+    },
+    {
+        "url": "https://pattern89.com",
+        "name": "Pattern89",
+        "error": "timeout"
+    },
+    {
+        "url": "https://penpot.app",
+        "name": "Penpot",
+        "error": "Cannot connect to host penpot.app:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://perplexity.ai",
+        "name": "Perplexity",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://labs.perplexity.ai",
+        "name": "Perplexity Labs",
+        "error": "Cannot connect to host labs.perplexity.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://perplexity.ai/pages",
+        "name": "Perplexity Pages",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://docs.perplexity.ai",
+        "name": "Perplexity Sonar",
+        "error": "Cannot connect to host docs.perplexity.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://personio.com",
+        "name": "Personio",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"default-src \\'self\\'; script-src \\'self\\' \\'unsafe-eval\\' \\'unsafe-inline\\' *.formulayt.com *.hockeystack.co...\".', url='https://www.personio.com/'"
+    },
+    {
+        "url": "https://phidata.com",
+        "name": "Phidata",
+        "error": "Cannot connect to host www.phidata.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://phind.com",
+        "name": "Phind",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://pi.ai",
+        "name": "Pi",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://pictory.ai",
+        "name": "Pictory",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://pipedrive.com",
+        "name": "Pipedrive",
+        "error": "Cannot connect to host pipedrive.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pitch.com",
+        "name": "Pitch",
+        "error": "Cannot connect to host pitch.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pitchbook.com",
+        "name": "PitchBook",
+        "error": "Cannot connect to host pitchbook.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pixelcut.ai",
+        "name": "Pixelcut",
+        "error": "Cannot connect to host pixelcut.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://plaid.com",
+        "name": "Plaid",
+        "error": "Cannot connect to host plaid.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://planet.com",
+        "name": "Planet Labs",
+        "error": "Cannot connect to host planet.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://planner5d.com",
+        "name": "Planner 5D",
+        "error": "Cannot connect to host planner5d.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://plantnet.org",
+        "name": "PlantNet",
+        "error": "Cannot connect to host plantnet.org:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://playground.com",
+        "name": "Playground AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://plusdocs.com",
+        "name": "Plus AI",
+        "error": "Cannot connect to host www.plusai.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://poe.com",
+        "name": "Poe",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://powerbi.microsoft.com",
+        "name": "Power BI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://powtoon.com",
+        "name": "Powtoon",
+        "error": "Cannot connect to host powtoon.com:443 ssl:True [SSLCertVerificationError: (5, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')]"
+    },
+    {
+        "url": "https://qodo.ai",
+        "name": "Qodo AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://quizlet.com",
+        "name": "Quizlet AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://rechargepayments.com",
+        "name": "Recharge",
+        "error": "Cannot connect to host rechargepayments.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://redfin.com",
+        "name": "Redfin",
+        "error": "HTTP 405"
+    },
+    {
+        "url": "https://researchrabbitapp.com",
+        "name": "ResearchRabbit",
+        "error": "Cannot connect to host researchrabbitapp.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://retool.com",
+        "name": "Retool AI",
+        "error": "Cannot connect to host retool.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://rev.com",
+        "name": "Rev",
+        "error": "Cannot connect to host rev.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://reverso.net",
+        "name": "Reverso",
+        "error": "Cannot connect to host reverso.net:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://roboflow.com",
+        "name": "Roboflow",
+        "error": "Cannot connect to host roboflow.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://rosettastone.com",
+        "name": "Rosetta Stone",
+        "error": "Cannot connect to host www.rosettastone.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://salesloft.com",
+        "name": "SalesLoft",
+        "error": "Cannot connect to host salesloft.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://ariba.com",
+        "name": "SAP Ariba",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://scale.com",
+        "name": "Scale AI",
+        "error": "Cannot connect to host scale.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://scenario.gg",
+        "name": "Scenario",
+        "error": "Cannot connect to host scenario.gg:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://scholarcy.com",
+        "name": "Scholarcy",
+        "error": "Cannot connect to host scholarcy.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://scispace.com",
+        "name": "SciSpace",
+        "error": "Cannot connect to host scispace.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://scribbr.com",
+        "name": "Scribbr",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://seaart.ai",
+        "name": "SeaArt",
+        "error": "Cannot connect to host seaart.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://sembly.ai",
+        "name": "Sembly AI",
+        "error": "Cannot connect to host sembly.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://servicenow.com",
+        "name": "ServiceNow",
+        "error": "Cannot connect to host servicenow.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://shortwave.com",
+        "name": "Shortwave",
+        "error": "Cannot connect to host www.shortwave.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://similarweb.com",
+        "name": "SimilarWeb",
+        "error": "Cannot connect to host similarweb.com:443 ssl:default [The specified network name is no longer available]"
+    },
+    {
+        "url": "https://socialbee.com",
+        "name": "SocialBee",
+        "error": "Cannot connect to host socialbee.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://openai.com/sora",
+        "name": "Sora",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://stamped.io",
+        "name": "Stamped.io",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://stampli.com",
+        "name": "Stampli",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://stockimg.ai",
+        "name": "StockImg AI",
+        "error": "Cannot connect to host stockimg.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://sunsama.com",
+        "name": "Sunsama",
+        "error": "Cannot connect to host www.sunsama.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://supabase.com/ai",
+        "name": "Supabase AI",
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://superhuman.com",
+        "name": "Superhuman",
+        "error": "Cannot connect to host superhuman.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://supernormal.com",
+        "name": "Supernormal",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://swimm.io",
+        "name": "Swimm",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://tableau.com",
+        "name": "Tableau",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://tabnine.com",
+        "name": "Tabnine",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://talkdesk.com",
+        "name": "Talkdesk",
+        "error": "Cannot connect to host talkdesk.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://tana.inc",
+        "name": "Tana",
+        "error": "Cannot connect to host tana.inc:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://taskade.com",
+        "name": "Taskade",
+        "error": "Cannot connect to host taskade.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://tome.app",
+        "name": "Tome",
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://udemy.com",
+        "name": "Udemy",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://unbounce.com",
+        "name": "Unbounce AI",
+        "error": "Cannot connect to host unbounce.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://undermind.ai",
+        "name": "Undermind",
+        "error": "Cannot connect to host undermind.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://upscayl.org",
+        "name": "Upscayl",
+        "error": "Cannot connect to host upscayl.org:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://vast.ai",
+        "name": "Vast.ai",
+        "error": "Cannot connect to host vast.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://venngage.com",
+        "name": "Venngage",
+        "error": "Cannot connect to host venngage.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://visme.co",
+        "name": "Visme AI",
+        "error": "Cannot connect to host www.visme.co:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://vyond.com",
+        "name": "Vyond",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://weave.wandb.ai",
+        "name": "W&B Weave",
+        "error": "Cannot connect to host weave.wandb.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://waifu2x.udp.jp",
+        "name": "Waifu2x",
+        "error": "Cannot connect to host www.waifu2x.net:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://weather.ai",
+        "name": "Weather.ai",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://weatherbug.com",
+        "name": "WeatherBug",
+        "error": "Cannot connect to host www.weatherbug.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://webflow.com",
+        "name": "Webflow",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"frame-ancestors \\'self\\' https://webflow.com https://*.webflow.com https://app.intellimize.com; connec...\".', url='https://webflow.com'"
+    },
+    {
+        "url": "https://wellsaidlabs.com",
+        "name": "WellSaid Labs",
+        "error": "Cannot connect to host wellsaidlabs.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://whisk.com",
+        "name": "Whisk",
+        "error": "Cannot connect to host whisk.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://wordai.com",
+        "name": "WordAI",
+        "error": "Cannot connect to host wordai.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://automatedinsights.com/wordsmith",
+        "name": "Wordsmith",
+        "error": "Cannot connect to host www.statsperform.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://x.ai",
+        "name": "x.ai",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://yelp.com",
+        "name": "Yelp",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://yodlee.com",
+        "name": "Yodlee",
+        "error": "Cannot connect to host yodlee.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://zety.com",
+        "name": "Zety",
+        "error": "timeout"
+    },
+    {
+        "url": "https://zillow.com",
+        "name": "Zillow",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://ziprecruiter.com",
+        "name": "ZipRecruiter",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://zoominfo.com",
+        "name": "ZoomInfo",
+        "error": "Cannot connect to host zoominfo.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://notion.com",
+        "name": "Notion",
+        "error": "Cannot connect to host www.notion.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://aisera.com",
+        "name": "Aisera",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://attio.com",
+        "name": "Attio",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"base-uri \\'self\\'; connect-src \\'self\\' blob: ipv4.pdscrb.com *.algolia.net *.algolianet.com *.algolia.i...\".', url='https://attio.com'"
+    },
+    {
+        "url": "https://beehiiv.com",
+        "name": "Beehiiv",
+        "error": "Cannot connect to host beehiiv.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://botpress.com",
+        "name": "Botpress",
+        "error": "Cannot connect to host botpress.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://cassidyai.com",
+        "name": "Cassidy AI",
+        "error": "Cannot connect to host cassidyai.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://clear.ml",
+        "name": "ClearML",
+        "error": "Cannot connect to host clear.ml:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://clevertap.com",
+        "name": "CleverTap",
+        "error": "Cannot connect to host clevertap.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://codecademy.com",
+        "name": "Codecademy",
+        "error": "Cannot connect to host codecademy.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://comet.com",
+        "name": "Comet ML",
+        "error": "Cannot connect to host comet.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://contractsafe.com",
+        "name": "ContractSafe",
+        "error": "Cannot connect to host www.contractsafe.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://coupa.com",
+        "name": "Coupa",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://csm.ai",
+        "name": "CSM AI",
+        "error": "Cannot connect to host csm.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://evisort.com",
+        "name": "Evisort",
+        "error": "Cannot connect to host www.evisort.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://gladia.io",
+        "name": "Gladia",
+        "error": "Cannot connect to host gladia.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://helicone.ai",
+        "name": "Helicone",
+        "error": "Cannot connect to host www.helicone.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://hyperscience.com",
+        "name": "HyperScience",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://iterable.com",
+        "name": "Iterable",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://kinaxis.com",
+        "name": "Kinaxis",
+        "error": "Cannot connect to host kinaxis.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://kixie.com",
+        "name": "Kixie",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://litera.com",
+        "name": "Litera",
+        "error": "Cannot connect to host litera.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://lyrahealth.com",
+        "name": "Lyra Health",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://madgicx.com",
+        "name": "Madgicx",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://marqo.ai",
+        "name": "Marqo",
+        "error": "Cannot connect to host marqo.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://monarchmoney.com",
+        "name": "Monarch Money",
+        "error": "Cannot connect to host monarchmoney.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://morph.studio",
+        "name": "Morph Studio",
+        "error": "timeout"
+    },
+    {
+        "url": "https://nightfall.ai",
+        "name": "Nightfall AI",
+        "error": "Cannot connect to host nightfall.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://paradox.ai",
+        "name": "Paradox",
+        "error": "Cannot connect to host www.paradox.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pathai.com",
+        "name": "PathAI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://plandex.ai",
+        "name": "Plandex",
+        "error": "Cannot connect to host plandex.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://poolside.ai",
+        "name": "Poolside",
+        "error": "Cannot connect to host poolside.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://promptlayer.com",
+        "name": "PromptLayer",
+        "error": "Cannot connect to host www.promptlayer.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://quantilope.com",
+        "name": "Quantilope",
+        "error": "Cannot connect to host quantilope.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://rossum.ai",
+        "name": "Rossum",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://sloyd.ai",
+        "name": "Sloyd",
+        "error": "Cannot connect to host sloyd.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://smartrecruiters.com",
+        "name": "SmartRecruiters",
+        "error": "Cannot connect to host www.smartrecruiters.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://springhealth.com",
+        "name": "Spring Health",
+        "error": "Cannot connect to host springhealth.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://stableaudio.com",
+        "name": "Stable Audio",
+        "error": "Cannot connect to host stableaudio.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://stablecog.com",
+        "name": "Stablecog",
+        "error": "Cannot connect to host stablecog.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://tensor.art",
+        "name": "Tensor.Art",
+        "error": "Cannot connect to host tensor.art:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://transkriptor.com",
+        "name": "Transkriptor",
+        "error": "Cannot connect to host transkriptor.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://trieve.ai",
+        "name": "Trieve",
+        "error": "Cannot connect to host trieve.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://trullion.com",
+        "name": "Trullion",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://turbopuffer.com",
+        "name": "Turbopuffer",
+        "error": "Cannot connect to host turbopuffer.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://verbit.ai",
+        "name": "Verbit",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://vic.ai",
+        "name": "Vic.ai",
+        "error": "Cannot connect to host www.vic.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://vidu.studio",
+        "name": "Vidu",
+        "error": "Cannot connect to host www.vidu.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://viz.ai",
+        "name": "Viz.ai",
+        "error": "Cannot connect to host www.viz.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://vizard.ai",
+        "name": "Vizard",
+        "error": "Cannot connect to host vizard.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://wordware.ai",
+        "name": "Wordware",
+        "error": "Cannot connect to host wordware.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://workable.com",
+        "name": "Workable",
+        "error": "Cannot connect to host www.workable.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://adobe.com/acrobat/ai-assistant.html",
+        "name": "Adobe Acrobat AI",
+        "error": "timeout"
+    },
+    {
+        "url": "https://aiaware.com",
+        "name": "AI Aware",
+        "error": "timeout"
+    },
+    {
+        "url": "https://assemblyai.com",
+        "name": "AssemblyAI",
+        "error": "Cannot connect to host assemblyai.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://bestphotoai.com",
+        "name": "BestPhotoAI",
+        "error": "Cannot connect to host bestphotoai.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://capcut.com",
+        "name": "CapCut",
+        "error": "HTTP 451"
+    },
+    {
+        "url": "https://character.ai",
+        "name": "Character.ai",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://clay.com",
+        "name": "Clay",
+        "error": "Cannot connect to host clay.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://clearscope.io",
+        "name": "Clearscope",
+        "error": "Cannot connect to host clearscope.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://clipfinder.io",
+        "name": "ClipFinder",
+        "error": "Cannot connect to host clipfinder.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://ucollate.com",
+        "name": "Collate",
+        "error": "Cannot connect to host ucollate.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://competitoranalyzer.io",
+        "name": "Competitor Analyzer",
+        "error": "Cannot connect to host competitoranalyzer.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://connectedpapers.com",
+        "name": "Connected Papers",
+        "error": "Cannot connect to host connectedpapers.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://continue.dev",
+        "name": "Continue",
+        "error": "Cannot connect to host continue.dev:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://coraintelligence.com",
+        "name": "Cora Intelligence",
+        "error": "Cannot connect to host coraintelligence.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://crayon.co",
+        "name": "Crayon",
+        "error": "Cannot connect to host www.crayon.co:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://openai.com/dall-e-3",
+        "name": "DALL-E 3",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://deepgram.com",
+        "name": "Deepgram",
+        "error": "Cannot connect to host deepgram.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://dora.run",
+        "name": "Dora",
+        "error": "Cannot connect to host dora.run:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://evalyze.co",
+        "name": "Evalyze",
+        "error": "Cannot connect to host evalyze.co:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://fliz.ai",
+        "name": "Fliz",
+        "error": "Cannot connect to host fliz.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://floot.dev",
+        "name": "Floot",
+        "error": "HTTP 525"
+    },
+    {
+        "url": "https://ghostwall.io",
+        "name": "Ghostwall",
+        "error": "Cannot connect to host ghostwall.io:443 ssl:default [None]"
+    },
+    {
+        "url": "https://goai.app",
+        "name": "GoAI",
+        "error": "Cannot connect to host goai.app:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'goai.app'. (_ssl.c:1028)\")]"
+    },
+    {
+        "url": "https://x.ai/grok",
+        "name": "Grok",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://hirevue.com",
+        "name": "HireVue",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://humata.ai",
+        "name": "Humata",
+        "error": "Cannot connect to host humata.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://ideogram.ai",
+        "name": "Ideogram",
+        "error": "Cannot connect to host ideogram.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://iris.ai",
+        "name": "Iris.ai",
+        "error": "Cannot connect to host iris.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://reply.io/jason-ai",
+        "name": "Jason AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://jobgpt.6figr.com",
+        "name": "JobGPT",
+        "error": "Cannot connect to host jobgpt.6figr.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://julius.ai",
+        "name": "Julius AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://kikivoice.com",
+        "name": "KikiVoice",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://krea.ai",
+        "name": "Krea AI",
+        "error": "400, message='Got more than 8190 bytes when reading: b\\'<./_app/b8b0ed85491981fc/immutable/assets/stores.Bpl3V4ti.css>; rel=\"preload\"; as=\"style\"; nopush, <...\\'.', url='https://www.krea.ai/'"
+    },
+    {
+        "url": "https://leonardo.ai",
+        "name": "Leonardo AI",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://litmaps.com",
+        "name": "Litmaps",
+        "error": "Cannot connect to host litmaps.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://lovable.dev",
+        "name": "Lovable",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://skylum.com/luminar-neo",
+        "name": "Luminar Neo",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://marketalerts.ai",
+        "name": "MarketAlerts.ai",
+        "error": "Cannot connect to host marketalerts.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://mem.ai",
+        "name": "Mem",
+        "error": "Cannot connect to host mem.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://mova.guide",
+        "name": "MOVA Guide",
+        "error": "Cannot connect to host mova.guide:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://creator.nightcafe.studio",
+        "name": "NightCafe Studio",
+        "error": "Cannot connect to host creator.nightcafe.studio:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://noodletomato.com",
+        "name": "Noodle Tomato",
+        "error": "Cannot connect to host noodletomato.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://notion.so/product/ai",
+        "name": "Notion AI",
+        "error": "400, message='Got more than 8190 bytes when reading: b\"script-src \\'self\\' \\'unsafe-inline\\' \\'unsafe-eval\\' https://gist.github.com https://apis.google.com http...\".', url='https://www.notion.so/product/ai'"
+    },
+    {
+        "url": "https://openai.com/o3",
+        "name": "OpenAI o3",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://pagepulse.io",
+        "name": "Page Pulse",
+        "error": "Cannot connect to host pagepulse.io:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)]"
+    },
+    {
+        "url": "https://photoroom.com",
+        "name": "Photoroom",
+        "error": "Cannot connect to host photoroom.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pipedream.com",
+        "name": "Pipedream",
+        "error": "Cannot connect to host pipedream.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pixlr.com",
+        "name": "Pixlr",
+        "error": "Cannot connect to host pixlr.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://play.ht",
+        "name": "PlayHT",
+        "error": "Cannot connect to host play.ht:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://pounce.social",
+        "name": "Pounce",
+        "error": "Cannot connect to host pounce.social:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://quillbot.com",
+        "name": "QuillBot",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://raccoon.ai",
+        "name": "Raccoon AI",
+        "error": "Cannot connect to host raccoon.ai:443 ssl:default [The remote computer refused the network connection]"
+    },
+    {
+        "url": "https://read.ai",
+        "name": "Read AI",
+        "error": "Cannot connect to host www.read.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://getrecall.ai",
+        "name": "Recall",
+        "error": "Cannot connect to host getrecall.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://reclaim.ai",
+        "name": "Reclaim AI",
+        "error": "Cannot connect to host reclaim.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://remio.app",
+        "name": "remio",
+        "error": "Cannot connect to host remio.app:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://remove.bg",
+        "name": "Remove.bg",
+        "error": "Cannot connect to host remove.bg:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://replicate.com",
+        "name": "Replicate",
+        "error": "Cannot connect to host replicate.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://reztune.com",
+        "name": "Reztune",
+        "error": "Cannot connect to host reztune.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://tryrocket.dev",
+        "name": "Rocket",
+        "error": "Cannot connect to host tryrocket.dev:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://scalerx.com",
+        "name": "scalerX",
+        "error": "Cannot connect to host scalerx.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')]"
+    },
+    {
+        "url": "https://serno.ai",
+        "name": "Serno",
+        "error": "Cannot connect to host serno.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://slashspace.io",
+        "name": "Slashspace",
+        "error": "Cannot connect to host slashspace.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://soundraw.io",
+        "name": "Soundraw",
+        "error": "Cannot connect to host soundraw.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://teampulse.ai",
+        "name": "Team Pulse",
+        "error": "Cannot connect to host teampulse.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://theinfluencer.ai",
+        "name": "The Influencer AI",
+        "error": "Cannot connect to host theinfluencer.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://thea.ai",
+        "name": "Thea",
+        "error": "Cannot connect to host thea.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://thelibrarian.io",
+        "name": "TheLibrarian.io",
+        "error": "Cannot connect to host thelibrarian.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://usetheo.com",
+        "name": "THEO",
+        "error": "Cannot connect to host usetheo.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://thumbnailcreator.com",
+        "name": "ThumbnailCreator.com",
+        "error": "Cannot connect to host www.thumbnailcreator.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://tidio.com",
+        "name": "Tidio",
+        "error": "Cannot connect to host tidio.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://tripo3d.ai",
+        "name": "Tripo3D",
+        "error": "Cannot connect to host www.tripo3d.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://v0.dev",
+        "name": "v0 by Vercel",
+        "error": "Cannot connect to host v0.dev:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://vidflux.io",
+        "name": "VidFlux",
+        "error": "Cannot connect to host vidflux.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://voicetype.ai",
+        "name": "Voicetype AI",
+        "error": "Cannot connect to host voicetype.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://wanvideo.ai",
+        "name": "Wan Video",
+        "error": "timeout"
+    },
+    {
+        "url": "https://whacka.io",
+        "name": "Whacka",
+        "error": "Cannot connect to host whacka.io:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://openai.com/research/whisper",
+        "name": "Whisper",
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://wispr.flow",
+        "name": "Wispr Flow",
+        "error": "Cannot connect to host wispr.flow:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://wordtune.com",
+        "name": "Wordtune",
+        "error": "Cannot connect to host wordtune.com:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://younet.ai",
+        "name": "Younet",
+        "error": "Cannot connect to host younet.ai:443 ssl:default [getaddrinfo failed]"
+    },
+    {
+        "url": "https://zoom.us/ai-assistant",
+        "name": "Zoom AI Companion",
+        "error": "HTTP 404"
+    }
+]

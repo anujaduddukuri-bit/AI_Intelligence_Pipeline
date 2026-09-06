@@ -1,0 +1,377 @@
+[
+    {
+        "url": "https://newsletter.altern.ai/",
+        "name": "Altern Newsletter",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://www.superhumanai.com/",
+        "name": "Superhuman AI",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://submitaitools.org",
+        "name": "Submit AI Tools",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://jobscan.co",
+        "name": "Jobscan",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://pdf.ai",
+        "name": "PDF.ai",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://www.auto-grid.com",
+        "name": "AutoGrid",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://covariant.ai",
+        "name": "Covariant",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://www.hopper.com",
+        "name": "Hopper",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://www.noom.com",
+        "name": "Noom",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://rapidapi.com",
+        "name": "RapidAPI",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://storybird.com",
+        "name": "Storybird",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://podcast.adobe.com/enhance",
+        "name": "Adobe Enhance Speech",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://lightroom.adobe.com",
+        "name": "Adobe Lightroom AI",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://podcast.adobe.com",
+        "name": "Adobe Podcast",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://aive.video",
+        "name": "AIVE",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://alphafold.ebi.ac.uk",
+        "name": "AlphaFold",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://andisearch.com",
+        "name": "Andi",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://anytype.io",
+        "name": "Anytype",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://microsoft.github.io/autogen",
+        "name": "AutoGen",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://copilot.microsoft.com",
+        "name": "Microsoft Copilot",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://boomy.com",
+        "name": "Boomy",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://bubble.io",
+        "name": "Bubble",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://chorus.ai",
+        "name": "Chorus.ai",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://consensus.app",
+        "name": "Consensus",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://coursera.org",
+        "name": "Coursera",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://coze.com",
+        "name": "Coze",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://devv.ai",
+        "name": "Devv.ai",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://dream.ai",
+        "name": "Dream by WOMBO",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://duolingo.com",
+        "name": "Duolingo",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://github.com/copilot",
+        "name": "GitHub Copilot",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://githubnext.com/projects/copilot-workspace",
+        "name": "GitHub Copilot Workspace",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://aistudio.google.com",
+        "name": "Google AI Studio",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://maps.google.com",
+        "name": "Google Maps",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://inciteful.xyz",
+        "name": "Inciteful",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://johndeere.com/operationscenter",
+        "name": "John Deere Operations Center",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://khanacademy.org",
+        "name": "Khan Academy",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://khanacademy.org/khan-labs",
+        "name": "Khanmigo",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://locofy.ai",
+        "name": "Locofy.ai",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://designer.microsoft.com",
+        "name": "Microsoft Designer",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://neural.love",
+        "name": "Neural.love",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://openread.academy",
+        "name": "OpenRead",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://palantir.com/gotham",
+        "name": "Palantir Gotham",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://productivity.directory",
+        "name": "Productivity Directory",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://roamresearch.com",
+        "name": "Roam Research",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://sassbook.com",
+        "name": "Sassbook AI",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://podcasters.spotify.com",
+        "name": "Spotify for Podcasters",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://theyes.com",
+        "name": "The Yes",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://acestudio.ai",
+        "name": "ACE Studio",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://alpha3d.io",
+        "name": "Alpha3D",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://dust.tt",
+        "name": "Dust",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://atlassian.com/software/jira",
+        "name": "Jira",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://kaiber.ai",
+        "name": "Kaiber",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://smith.langchain.com",
+        "name": "LangSmith",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://latitude.io",
+        "name": "Latitude",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://lexica.art",
+        "name": "Lexica",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://podcastle.ai",
+        "name": "Podcastle",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://seekout.io",
+        "name": "SeekOut",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://express.adobe.com",
+        "name": "Adobe Express",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://biela.dev",
+        "name": "biela.dev",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://blogseo.ai",
+        "name": "BlogSEO",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://echowrite.ai",
+        "name": "EchoWrite",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://fabricate.dev",
+        "name": "Fabricate",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://usegalileo.ai",
+        "name": "Galileo AI",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://haiper.ai",
+        "name": "Haiper",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://ideamap.ai",
+        "name": "Ideamap",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://jetbrains.com/ai",
+        "name": "JetBrains AI Assistant",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://jobbyo.com",
+        "name": "Jobbyo",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://leania.ai",
+        "name": "leania.ai",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://logseq.com",
+        "name": "Logseq",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://mumble.app",
+        "name": "Mumble AI",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://udio.com",
+        "name": "Udio",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://vertechacademy.com",
+        "name": "Vertech Academy",
+        "reason": "Likely non-product directory/resource"
+    },
+    {
+        "url": "https://wandb.ai",
+        "name": "Weights & Biases",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://wordrific.com",
+        "name": "Wordrific",
+        "reason": "Insufficient webpage content"
+    },
+    {
+        "url": "https://xpilot.ai",
+        "name": "X-Pilot AI",
+        "reason": "Insufficient webpage content"
+    }
+]
